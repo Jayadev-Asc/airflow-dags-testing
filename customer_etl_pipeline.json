@@ -1,0 +1,1 @@
+{"config":{"environment":"dev"},"airflow_variables":{"customer_etl_pipeline_source":"s3://customer-data-bucket/raw/"}}
